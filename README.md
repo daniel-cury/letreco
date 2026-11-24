@@ -18,6 +18,7 @@ Português, inglês, francês e espanhol. O idioma é escolhido no menu inicial 
 pip install pygame
 python menu.py
 ```
+Ou apenas baixando todos os arquivos presentes nesse repositório e rodando normalmente com o botão de Run do VScode ou do seu IDE de preferência
 
 Também existe uma versão para o terminal, sem interface gráfica: `python jogo_no_terminal.py`.
 
